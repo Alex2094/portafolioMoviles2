@@ -1,39 +1,5 @@
 <div align="center">
 <h1><strong>ღ¸.🌸´`🌸.¸¸ღ - IITID - 4 - ღ¸.🌸´`🌸.¸¸ღ</strong></h1>
-
-<h2><strong>ʚ🌹ɞ Avalos Miramontes Alexis Gabriel ʚ🌹ɞ</strong></h2>
-</div>
-
-●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●
-<div align="center">
-<h2><strong>⭐Descripcion de los ejercicos vistos en clases⭐</strong></h2>
-</div> 
-
-●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●
-<div align="center">
-<h2><strong>⭐01_holamundo⭐</strong></h2>
-</div>
-
-###holaMundo.dart, es el programa más básico que puedes escribir. La función main() es el punto de entrada de cualquier programa en Dart, es decir, lo primero que se ejecuta. Dentro de ella, la instrucción print muestra un mensaje en la pantalla. Es como decir "hola" por primera vez en el mundo de la programación
-
-●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●
-<div align="center">
-<h2><strong>⭐02_holamundo⭐</strong></h2>
-</div>
-
-###
-
-●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●
-<div align="center">
-<h2><strong>⭐02_holamundo⭐</strong></h2>
-</div>
-
-###
-
-●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●
-<div align="center">
-<h1><strong>ღ¸.🌸´`🌸.¸¸ღ - A3 - ღ¸.🌸´`🌸.¸¸ღ</strong></h1>
-
 <h2><strong>ʚ🌹ɞ Avalos Miramontes Alexis Gabriel ʚ🌹ɞ</strong></h2>
 </div>
 
